@@ -1,0 +1,2 @@
+yarn add jest -D @babel/preset-typescript -D @types/jest -D
+yarn add @testing-library/react @testing-library/jest-dom -D

@@ -1,0 +1,5 @@
+npx create-next-app boilerplate
+touch tsconfig.json
+yarn add typescript -D
+yarn add @types/react -D
+yarn add @types/node -D
